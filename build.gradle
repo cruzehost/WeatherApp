@@ -1,5 +1,5 @@
 buildscript {
-	ext.kotlin_version = '1.1.1'
+	ext.kotlin_version = '1.2.51'
     repositories {
 	jcenter()
         google() // Gradle 4.0+
